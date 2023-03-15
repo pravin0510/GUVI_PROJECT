@@ -1,0 +1,15 @@
+.btn-custom{
+    background-color: #ff5d1d !important;
+    border: none;
+    color: #fff;
+ }
+ 
+ 
+ @media screen  and (max-width:996px) {
+    
+  
+ 
+    .w-50{
+       min-width: 100vw !important;
+    }
+ }
